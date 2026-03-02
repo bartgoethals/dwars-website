@@ -32,11 +32,11 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
                         </div>
                     ) : (
                         <div className="py-2 mb-2 group-hover:bg-black/5 dark:group-hover:bg-white/5 transition-colors">
-                            <h3 className="text-xl md:text-2xl font-heading mb-3 leading-tight uppercase text-black dark:text-white tracking-wide group-hover:text-dwars-pink dark:group-hover:text-dwars-pink transition-colors line-clamp-3">
+                            <h3 className="text-xl md:text-2xl font-heading mb-3 leading-tight uppercase text-black dark:text-white tracking-wide group-hover:text-dwars-pink dark:group-hover:text-dwars-pink transition-colors">
                                 {title}
                             </h3>
                             {excerpt && (
-                                <p className="text-sm md:text-base text-black dark:text-gray-300 leading-snug font-sans font-medium line-clamp-4 transition-colors">
+                                <p className="text-sm md:text-base text-black dark:text-gray-300 leading-snug font-sans font-medium transition-colors">
                                     {excerpt}
                                 </p>
                             )}

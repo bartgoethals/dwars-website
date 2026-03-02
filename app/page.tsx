@@ -51,35 +51,25 @@ export default async function Home() {
 
           {/* Ads Sidebar/Right Column */}
           <div className="w-full xl:w-[200px] shrink-0 flex flex-col sm:flex-row xl:flex-col gap-6">
-            {/* Ad 1 */}
-            <div className="bg-gray-200 flex-[0.8] xl:h-[220px] w-full p-4 flex flex-col items-center justify-center text-center relative grayscale hover:grayscale-0 transition-all duration-300 cursor-pointer border-2 border-transparent hover:border-black overflow-hidden group">
-              <img src="https://images.unsplash.com/photo-1596683720379-b8fb7b227c8e?q=80&w=2670&auto=format&fit=crop" className="absolute inset-0 w-full h-full object-cover z-0 opacity-50 group-hover:opacity-100 transition-opacity" alt="Protest" />
-              <div className="relative z-10 flex flex-col items-center justify-center h-full w-full">
-                <h3 className="font-heading text-4xl mb-2 leading-none uppercase text-black drop-shadow-md bg-white/80 px-2 py-1 transform -rotate-3">Wij<br />Verdienen<br />Beter</h3>
-              </div>
-              <p className="relative z-10 text-[10px] sm:text-[11px] font-bold bg-black text-white px-2 py-1 mt-auto uppercase tracking-widest w-full">Comac spreekt fatwa uit op dwars</p>
-            </div>
+            {/* Sidebar Article 1 */}
+            <article className="group mb-4 pb-4 border-b-2 border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
+              <span className="text-xs font-bold uppercase tracking-wider mb-2 dark:text-gray-300 block">Opinie</span>
+              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide group-hover:text-dwars-pink transition-colors">Lorem ipsum dolor sit amet.</h3>
+              <p className="text-sm text-black dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            </article>
 
-            {/* Ad 2 */}
-            <div className="bg-[#f0f0f0] flex-[1.2] xl:h-[310px] w-full p-6 md:p-8 flex flex-col relative border border-gray-300 overflow-hidden cursor-pointer group hover:border-black transition-colors">
-              <div className="absolute top-4 right-4 bg-black text-white text-[10px] uppercase px-2 py-1 rounded-full font-bold transform rotate-12 z-10">Alleen voor<br />-26<br />jaar</div>
-              <h4 className="font-sans font-extrabold text-lg md:text-xl leading-tight mb-4 relative z-10 w-2/3">Betrouwbare journalistiek is nooit gratis.</h4>
-              <p className="font-heading text-4xl md:text-5xl border-y-[3px] border-black py-2 mb-4 relative z-10 uppercase w-2/3 leading-none">Daarom<br />betalen<br /><span className="border-[3px] border-black px-1 inline-block -rotate-3 mt-1 bg-white">wij!</span></p>
-
-              <div className="mt-auto flex justify-between items-center text-[10px] font-bold font-sans relative z-10 w-[80%]">
-                <span className="bg-gray-800 text-white px-3 py-2 uppercase tracking-widest group-hover:bg-dwars-pink transition-colors w-full text-center">Start meteen met lezen &gt;</span>
-              </div>
-              {/* Faux De Standaard logo text at bottom */}
-              <div className="absolute bottom-4 right-4 text-[11px] font-serif font-bold italic opacity-60">
-                De Standaard
-              </div>
-            </div>
+            {/* Sidebar Article 2 */}
+            <article className="group mb-4 pb-4 border-b-2 border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
+              <span className="text-xs font-bold uppercase tracking-wider mb-2 dark:text-gray-300 block">Campus</span>
+              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide group-hover:text-dwars-pink transition-colors">Excepteur sint occaecat cupidatat non.</h3>
+              <p className="text-sm text-black dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            </article>
           </div>
 
         </div>
 
         {/* Recente Artikels */}
-        <section className="mb-8">
+        <section className="mb-8 mt-4">
           <SectionHeader title="recente artikels" />
 
           {/* Masonry Grid */}
@@ -98,7 +88,9 @@ export default async function Home() {
 
           <div className="flex justify-center mt-16 mb-12 relative">
             <Link href="/archief" className="relative group inline-block hover:scale-[1.02] hover:-translate-y-1 transition-transform duration-300">
-              <div className="absolute inset-0 bg-dwars-gray dark:bg-gray-800 transform rotate-2 skew-x-6 z-[-1] scale-110 shadow-sm border border-black/5 dark:border-white/10 group-hover:bg-dwars-pink dark:group-hover:bg-dwars-pink transition-colors duration-300" />
+              <div className="absolute inset-0 z-[-1] flex items-center justify-center pointer-events-none scale-[1.3] opacity-90 dark:opacity-80 transition-opacity">
+                <img src="/assets/extra/nog lichtere tapejes_5.png" alt="" className="w-full h-full object-contain drop-shadow-sm min-w-[250px]" />
+              </div>
               <span className="text-3xl font-heading tracking-widest px-8 py-2 relative text-dwars-text dark:text-white group-hover:text-white transition-colors inline-block">
                 meer lezen...
               </span>

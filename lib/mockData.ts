@@ -162,7 +162,7 @@ export const mockArticles: DrupalArticle[] = [
             title: "Vanaf 2026 kleinere porties in komida met campagne \"Nothing tastes as good as skinny feels\"",
             path: { alias: "/artikels/kleinere-porties" },
             created: "2026-02-21T12:00:00Z",
-            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex"
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure."
         }
     },
     {
@@ -172,7 +172,7 @@ export const mockArticles: DrupalArticle[] = [
             title: "Afas-dome na nieuwe sponsordeal omgedoopt tot komida-dome",
             path: { alias: "/artikels/afas-dome" },
             created: "2026-02-20T12:00:00Z",
-            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex"
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse."
         },
         relationships: {
             field_image: { data: { id: "file-5", type: "file--file" } }
@@ -218,7 +218,7 @@ export const mockArticles: DrupalArticle[] = [
             title: "Nieuwe AI-cursus blijkt gewoon een manilla map vol memes te zijn",
             path: { alias: "/artikels/ai-cursus-memes" },
             created: "2026-02-16T12:00:00Z",
-            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat. Vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan. Eodem modo typi, qui nunc nobis videntur parum clari, fiant sollemnes in futurum."
         }
     }
 ];
