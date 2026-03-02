@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
+import ThemeToggle from './ThemeToggle';
 
 const navItems = [
     { label: 'Edities', icon: '/assets/icons/icons_edities.png', href: '/edities' },
@@ -31,8 +32,8 @@ export default function Sidebar() {
                         <div className="relative w-2/3 aspect-[2.5/1]">
                             <Image src="/assets/dwarslogo_website.png" alt="Logo" fill className="object-contain object-left" priority />
                         </div>
-                        <div className="relative w-1/3 aspect-[1.6/1] mt-4 opacity-90 hover:opacity-100 transition-opacity">
-                            <Image src="/assets/sidebar/nieuwste_editie.png" alt="Nieuwste Editie" fill className="object-contain object-left" priority />
+                        <div className="relative w-[85%] aspect-[1.6/1] mt-4 opacity-90 hover:opacity-100 hover:scale-[1.03] hover:-rotate-1 transition-all">
+                            <Image src="/assets/sidebar/nieuwste_editie.png" alt="Nieuwste Editie" fill className="object-contain object-left drop-shadow-sm" priority />
                         </div>
                     </Link>
                 </div>
@@ -57,6 +58,11 @@ export default function Sidebar() {
                             </Link>
                         ))}
                     </nav>
+                </div>
+
+                {/* Dark Mode Toggle */}
+                <div className="mt-8 flex w-full">
+                    <ThemeToggle />
                 </div>
 
                 {/* Tags at bottom */}

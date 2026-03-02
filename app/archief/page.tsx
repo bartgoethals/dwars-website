@@ -4,7 +4,7 @@ import SectionHeader from '@/components/SectionHeader';
 
 export default function ArchiefPage() {
     return (
-        <div className="flex w-full h-full relative bg-white">
+        <div className="flex w-full h-full relative transition-colors duration-300">
             {/* Main Content Area: Articles List */}
             <div className="flex-1 p-12 pr-6 max-w-5xl">
                 <SectionHeader title="archief" />
@@ -69,13 +69,13 @@ export default function ArchiefPage() {
             </div>
 
             {/* Right Sidebar: Filters */}
-            <aside className="w-[320px] p-8 pl-6 border-l-2 border-dashed border-gray-200 shrink-0 bg-[#fefefe]">
+            <aside className="w-[320px] p-8 pl-6 border-l-2 border-dashed border-gray-200 dark:border-gray-700 shrink-0 bg-[#fefefe] dark:bg-[#222222] transition-colors">
                 <div className="sticky top-8 space-y-10">
 
                     {/* Search Term */}
                     <div>
                         <h3 className="font-heading text-2xl mb-4 lowercase tracking-wide">zoekterm</h3>
-                        <input type="text" defaultValue="studentenraad" className="w-full bg-gray-100 rounded-full px-4 py-2 font-sans text-sm focus:outline-none focus:ring-2 focus:ring-dwars-pink" />
+                        <input type="text" defaultValue="studentenraad" className="w-full bg-gray-100 dark:bg-gray-800 rounded-full px-4 py-2 font-sans text-sm focus:outline-none focus:ring-2 focus:ring-dwars-pink transition-colors dark:text-gray-100" />
                     </div>
 
                     {/* Tags Filter */}
@@ -84,7 +84,7 @@ export default function ArchiefPage() {
                         <div className="flex flex-col gap-2 font-bold text-sm">
                             {['unief', 'maatschappij', 'cultuur', 'onderzoek', "'t stad", 'opinie', 'satire', 'editoriaal', 'poëzie', 'mentaal welzijn', 'politiek'].map((tag) => (
                                 <label key={tag} className="flex items-center gap-3 cursor-pointer group">
-                                    <div className={`w-4 h-4 rounded-sm border ${tag === 'maatschappij' ? 'bg-black border-black text-white' : 'border-gray-400 bg-white group-hover:border-black'} flex items-center justify-center transition-colors`}>
+                                    <div className={`w-4 h-4 rounded-sm border ${tag === 'maatschappij' ? 'bg-black dark:bg-white border-black dark:border-white text-white dark:text-black' : 'border-gray-400 bg-white dark:bg-gray-800 group-hover:border-black dark:group-hover:border-white'} flex items-center justify-center transition-colors`}>
                                         {tag === 'maatschappij' && <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
                                     </div>
                                     <span className="group-hover:text-dwars-pink transition-colors">{tag}</span>
@@ -100,7 +100,7 @@ export default function ArchiefPage() {
                         <div className="flex flex-col gap-2 font-bold text-sm">
                             {['168', '167', '166', '165', '164'].map((ed) => (
                                 <label key={ed} className="flex items-center gap-3 cursor-pointer group">
-                                    <div className={`w-4 h-4 rounded-sm border ${ed === '167' ? 'bg-black border-black text-white' : 'border-gray-400 bg-white group-hover:border-black'} flex items-center justify-center transition-colors`}>
+                                    <div className={`w-4 h-4 rounded-sm border ${ed === '167' ? 'bg-black dark:bg-white border-black dark:border-white text-white dark:text-black' : 'border-gray-400 bg-white dark:bg-gray-800 group-hover:border-black dark:group-hover:border-white'} flex items-center justify-center transition-colors`}>
                                         {ed === '167' && <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
                                     </div>
                                     <span className="group-hover:text-dwars-pink transition-colors">{ed}</span>
@@ -116,7 +116,7 @@ export default function ArchiefPage() {
                         <div className="flex flex-col gap-2 font-bold text-sm">
                             {['Thijs van Dam', 'Laura van Dam', 'Laurens S van Dam', 'Laurens V van Dam', 'Laure-Anne van Dam'].map((auteur) => (
                                 <label key={auteur} className="flex items-center gap-3 cursor-pointer group">
-                                    <div className={`w-4 h-4 rounded-sm border ${auteur === 'Laura van Dam' ? 'bg-black border-black text-white' : 'border-gray-400 bg-white group-hover:border-black'} flex items-center justify-center transition-colors`}>
+                                    <div className={`w-4 h-4 rounded-sm border ${auteur === 'Laura van Dam' ? 'bg-black dark:bg-white border-black dark:border-white text-white dark:text-black' : 'border-gray-400 bg-white dark:bg-gray-800 group-hover:border-black dark:group-hover:border-white'} flex items-center justify-center transition-colors`}>
                                         {auteur === 'Laura van Dam' && <svg className="w-3 h-3" viewBox="0 0 24 24" fill="none" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={3} d="M5 13l4 4L19 7" /></svg>}
                                     </div>
                                     <span className="group-hover:text-dwars-pink transition-colors">{auteur}</span>

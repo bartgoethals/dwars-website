@@ -198,7 +198,27 @@ export const mockArticles: DrupalArticle[] = [
             title: "Studentenraad sponsort met overgebleven budget Formule 1-team: vanaf 2026 \"McLaren-Stura\"",
             path: { alias: "/artikels/formule-1" },
             created: "2026-02-18T12:00:00Z",
-            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex"
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex."
+        }
+    },
+    {
+        id: "art-13",
+        type: "node--article",
+        attributes: {
+            title: "Refter wordt omgetoverd tot luxerestaurant: \"We serveren vanaf nu enkel nog kaviaar op toast\"",
+            path: { alias: "/artikels/refter-luxerestaurant" },
+            created: "2026-02-17T12:00:00Z",
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi."
+        }
+    },
+    {
+        id: "art-14",
+        type: "node--article",
+        attributes: {
+            title: "Nieuwe AI-cursus blijkt gewoon een manilla map vol memes te zijn",
+            path: { alias: "/artikels/ai-cursus-memes" },
+            created: "2026-02-16T12:00:00Z",
+            field_excerpt: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
         }
     }
 ];

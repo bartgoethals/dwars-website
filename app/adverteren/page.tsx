@@ -3,45 +3,45 @@ import React from "react";
 
 export default function AdverterenPage() {
     return (
-        <div className="flex flex-col w-full min-h-full pb-48 relative bg-white">
+        <div className="flex flex-col w-full min-h-full pb-48 relative transition-colors duration-300">
             <div className="w-full max-w-[900px] mx-auto p-6 md:p-12">
                 <SectionHeader title="adverteren" />
 
                 <div className="mt-12 flex flex-col gap-10">
 
-                    <p className="font-sans text-xl leading-relaxed text-gray-800 font-medium">
-                        Contacteer ons voor meer informatie via <a href="mailto:adverteren@dwars.be" className="text-dwars-pink font-bold underline hover:text-black transition-colors">adverteren@dwars.be</a>!
+                    <p className="font-sans text-xl leading-relaxed text-gray-800 dark:text-gray-200 font-medium transition-colors">
+                        Contacteer ons voor meer informatie via <a href="mailto:adverteren@dwars.be" className="text-dwars-pink font-bold underline hover:text-black dark:hover:text-white transition-colors">adverteren@dwars.be</a>!
                     </p>
 
                     <section>
-                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide">Adverteren in het magazine</h3>
-                        <p className="font-sans text-lg leading-relaxed text-gray-800">
+                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide dark:text-white transition-colors">Adverteren in het magazine</h3>
+                        <p className="font-sans text-lg leading-relaxed text-gray-800 dark:text-gray-300 transition-colors">
                             Uw advertentie in onze papieren editie, verdeeld over alle campussen in Antwerpen.
                         </p>
                     </section>
 
                     <section>
-                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide">Adverteren op de website</h3>
-                        <p className="font-sans text-lg leading-relaxed text-gray-800">
+                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide dark:text-white transition-colors">Adverteren op de website</h3>
+                        <p className="font-sans text-lg leading-relaxed text-gray-800 dark:text-gray-300 transition-colors">
                             Bereik online een doelgericht publiek van studenten en academici.
                         </p>
                     </section>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-8 my-4">
-                        <div className="bg-gray-50 border border-gray-200 p-6">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 transition-colors">
                             <h4 className="font-heading text-2xl uppercase tracking-wide mb-2 text-dwars-pink">Prijzen Corporate</h4>
-                            <p className="font-sans text-base text-gray-700">Voor bedrijven en profit-organisaties. Prijzen op aanvraag.</p>
+                            <p className="font-sans text-base text-gray-700 dark:text-gray-300">Voor bedrijven en profit-organisaties. Prijzen op aanvraag.</p>
                         </div>
-                        <div className="bg-gray-50 border border-gray-200 p-6">
+                        <div className="bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 p-6 transition-colors">
                             <h4 className="font-heading text-2xl uppercase tracking-wide mb-2 text-dwars-pink">Prijzen Non-Profit</h4>
-                            <p className="font-sans text-base text-gray-700">Aangepast tarief voor VZW&apos;s, studentenverenigingen en universiteitsdiensten.</p>
+                            <p className="font-sans text-base text-gray-700 dark:text-gray-300">Aangepast tarief voor VZW&apos;s, studentenverenigingen en universiteitsdiensten.</p>
                         </div>
                     </div>
 
                     <section>
-                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide">Aanlevering</h3>
-                        <p className="font-sans text-lg leading-relaxed text-gray-800">
-                            Alle afbeeldingen via WeTransfer t.a.v. <a href="mailto:adverteren@dwars.be" className="text-dwars-pink font-bold underline hover:text-black transition-colors">adverteren@dwars.be</a>
+                        <h3 className="font-heading text-3xl md:text-4xl mb-4 uppercase tracking-wide dark:text-white transition-colors">Aanlevering</h3>
+                        <p className="font-sans text-lg leading-relaxed text-gray-800 dark:text-gray-300 transition-colors">
+                            Alle afbeeldingen via WeTransfer t.a.v. <a href="mailto:adverteren@dwars.be" className="text-dwars-pink font-bold underline hover:text-black dark:hover:text-white transition-colors">adverteren@dwars.be</a>
                         </p>
                     </section>
 

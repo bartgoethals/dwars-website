@@ -91,7 +91,7 @@ const REDACTIE_DATA: Category[] = [
 
 export default function RedactiePage() {
     return (
-        <div className="flex w-full h-full relative">
+        <div className="flex w-full h-full relative transition-colors duration-300">
             {/* Main Content Area */}
             <div className="flex-1 p-12 pr-6 max-w-5xl mx-auto">
 
@@ -105,10 +105,10 @@ export default function RedactiePage() {
                     </div>
 
                     <div className="flex gap-4 mb-4">
-                        <Link href="/freelance" className="inline-block bg-black text-white px-6 py-2 uppercase tracking-wide font-heading hover:bg-dwars-pink transition-colors">
+                        <Link href="/freelance" className="inline-block bg-black dark:bg-white text-white dark:text-black px-6 py-2 uppercase tracking-wide font-heading hover:bg-dwars-pink dark:hover:bg-dwars-pink transition-colors">
                             Freelance meewerken?
                         </Link>
-                        <Link href="/oud-redactie" className="inline-block border-2 border-black bg-white px-6 py-2 uppercase tracking-wide font-heading hover:bg-dwars-gray transition-colors">
+                        <Link href="/oud-redactie" className="inline-block border-2 border-black dark:border-white bg-white dark:bg-black px-6 py-2 uppercase tracking-wide font-heading hover:bg-dwars-gray dark:hover:bg-gray-800 transition-colors">
                             Onze oud-redactie
                         </Link>
                     </div>
@@ -133,7 +133,7 @@ export default function RedactiePage() {
                                             className={`relative group ${rotationClass} hover:rotate-0 transition-transform duration-300`}
                                         >
                                             <div className="absolute inset-0 bg-black translate-x-1 translate-y-1 transition-transform group-hover:translate-x-2 group-hover:translate-y-2 z-0" />
-                                            <div className="relative z-10 bg-white border-2 border-black p-3 h-full flex flex-col justify-center">
+                                            <div className="relative z-10 bg-white dark:bg-[#111] border-2 border-black dark:border-gray-500 p-3 h-full flex flex-col justify-center transition-colors">
                                                 {member.image ? (
                                                     <div className="w-full aspect-[4/5] object-cover mb-2 border border-black overflow-hidden relative grayscale group-hover:grayscale-0 transition-all duration-300">
                                                         <img src={member.image} alt={member.name} className="object-cover w-full h-full" />
@@ -143,10 +143,10 @@ export default function RedactiePage() {
                                                         <AvatarPlaceholder name={member.name} />
                                                     </div>
                                                 )}
-                                                <h4 className="font-heading text-lg uppercase leading-none mb-1 group-hover:text-dwars-pink transition-colors">
+                                                <h4 className="font-heading text-lg uppercase leading-none mb-1 text-black dark:text-white group-hover:text-dwars-pink dark:group-hover:text-dwars-pink transition-colors">
                                                     {member.name}
                                                 </h4>
-                                                <p className="font-sans text-[10px] font-bold text-gray-500 uppercase tracking-widest leading-tight">
+                                                <p className="font-sans text-[10px] font-bold text-gray-500 dark:text-gray-400 uppercase tracking-widest leading-tight transition-colors">
                                                     {member.role === "Lid" ? "" : member.role}
                                                 </p>
                                             </div>
