@@ -17,7 +17,7 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
 
     if (isMasonry) {
         return (
-            <article className="group mb-12 pb-8 border-b-2 border-black break-inside-avoid relative bg-white transition-all duration-300 cursor-pointer">
+            <article className="group mb-6 pb-4 border-b-2 border-black break-inside-avoid relative bg-white transition-all duration-300 cursor-pointer">
                 <Link href={`/artikels/${slug}`} className="block w-full h-full relative">
                     {imageUrl ? (
                         <div className="relative w-full overflow-hidden grayscale group-hover:grayscale-0 transition-all duration-700">

@@ -13,7 +13,7 @@ const navItems = [
 
 export default function Sidebar() {
     return (
-        <aside className="relative flex w-1/3 min-w-[280px] max-w-[420px] h-screen shrink-0 sticky top-0">
+        <aside className="relative flex w-[22%] min-w-[200px] max-w-[280px] h-screen shrink-0 sticky top-0">
             {/* Background layer with torn paper edge */}
             <div className="absolute inset-0 flex z-0 pointer-events-none">
                 <div className="flex-1 bg-black"></div>

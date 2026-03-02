@@ -84,7 +84,7 @@ export default async function Home() {
           <SectionHeader title="recente artikels" />
 
           {/* Masonry Grid */}
-          <div className="columns-1 md:columns-2 xl:columns-3 gap-8 md:gap-12 w-full mt-10">
+          <div className="columns-1 md:columns-2 xl:columns-3 gap-6 md:gap-8 w-full mt-6">
             {gridArticles.map((article) => (
               <ArticleCard
                 key={article.id}
