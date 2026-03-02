@@ -34,7 +34,7 @@ export default function AdverterenPage() {
                         </div>
                         <div className="bg-gray-50 border border-gray-200 p-6">
                             <h4 className="font-heading text-2xl uppercase tracking-wide mb-2 text-dwars-pink">Prijzen Non-Profit</h4>
-                            <p className="font-sans text-base text-gray-700">Aangepast tarief voor VZW's, studentenverenigingen en universiteitsdiensten.</p>
+                            <p className="font-sans text-base text-gray-700">Aangepast tarief voor VZW&apos;s, studentenverenigingen en universiteitsdiensten.</p>
                         </div>
                     </div>
 
@@ -57,7 +57,7 @@ export default function AdverterenPage() {
 
             {/* Copyright Image Bottom Right */}
             <div className="absolute bottom-0 right-0 z-50 pointer-events-none w-[200px] md:w-[300px] lg:w-[400px] flex items-end justify-end">
-                <img src="/assets/zijbalk%20en%20copyright/copyrighthoekje%20zwart.png" alt="Copyright Background" className="w-full h-auto object-contain object-bottom drop-shadow-sm opacity-90" />
+                <img src="/assets/sidebar/copyrighthoekje_zwart.png" alt="Copyright Background" className="w-full h-auto object-contain object-bottom drop-shadow-sm opacity-90" />
                 <div className="absolute bottom-4 right-4 md:bottom-6 md:right-6 lg:bottom-8 lg:right-8 text-white font-sans text-[10px] md:text-xs opacity-80 text-right">
                     © {new Date().getFullYear()} Dwars
                 </div>

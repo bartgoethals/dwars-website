@@ -18,7 +18,7 @@ export default function Sidebar() {
             <div className="absolute inset-0 flex z-0 pointer-events-none">
                 <div className="flex-1 bg-black"></div>
                 <div className="relative h-full w-[60px] md:w-[90px] -ml-[1px]">
-                    <Image src="/assets/scheur_zijbalk_zwart.png" alt="" fill className="object-fill object-left" priority />
+                    <Image src="/assets/sidebar/scheur_zijbalk_zwart.png" alt="" fill className="object-fill object-left" priority />
                 </div>
             </div>
 
@@ -32,7 +32,7 @@ export default function Sidebar() {
                             <Image src="/assets/dwarslogo_website.png" alt="Logo" fill className="object-contain object-left" priority />
                         </div>
                         <div className="relative w-1/3 aspect-[1.6/1] mt-4 opacity-90 hover:opacity-100 transition-opacity">
-                            <Image src="/assets/nieuwste_editie.png" alt="Nieuwste Editie" fill className="object-contain object-left" priority />
+                            <Image src="/assets/sidebar/nieuwste_editie.png" alt="Nieuwste Editie" fill className="object-contain object-left" priority />
                         </div>
                     </Link>
                 </div>
@@ -42,7 +42,7 @@ export default function Sidebar() {
                     <div className="relative flex items-center">
                         <input placeholder="Zoeken?!" className="bg-transparent placeholder-white/70 text-white font-heading tracking-widest text-xl border-white border-2 rounded-full py-2 px-5 pr-12 w-full focus:outline-none focus:border-dwars-pink" />
                         <div className="absolute right-4 w-5 h-5 flex items-center justify-center pointer-events-none">
-                            <Image src="/assets/icons_zoeken.png" width={20} height={20} alt="Search" className="brightness-0 invert object-contain" />
+                            <Image src="/assets/icons/icons_zoeken.png" width={20} height={20} alt="Search" className="brightness-0 invert object-contain" />
                         </div>
                     </div>
 

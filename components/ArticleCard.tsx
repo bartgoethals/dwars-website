@@ -11,7 +11,7 @@ interface ArticleCardProps {
     date?: string;
 }
 
-export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = 'column', tags, date }: ArticleCardProps) {
+export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = 'column', date }: ArticleCardProps) {
     const isRow = layout === 'row';
     const isMasonry = layout === 'masonry';
 

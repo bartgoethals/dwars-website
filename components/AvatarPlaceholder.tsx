@@ -83,7 +83,7 @@ export default function AvatarPlaceholder({ name }: AvatarPlaceholderProps) {
     // Crosses/Tape markings typical for grunge
     const numCrosses = Math.floor(seededRandom(seed + 100) * 3) + 1;
     const crosses = [];
-    for (var i = 0; i < numCrosses; i++) {
+    for (let i = 0; i < numCrosses; i++) {
         const cx = seededRandom(seed + 101 + i) * 80 + 10;
         const cy = seededRandom(seed + 102 + i) * 80 + 10;
         const size = seededRandom(seed + 103 + i) * 15 + 5;

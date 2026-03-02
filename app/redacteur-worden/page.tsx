@@ -1,6 +1,5 @@
 import SectionHeader from "@/components/SectionHeader";
 import React from "react";
-import Link from "next/link";
 
 export default function RedacteurWordenPage() {
     return (
@@ -82,7 +81,7 @@ export default function RedacteurWordenPage() {
 
             {/* Copyright Image Bottom Right */}
             <div className="absolute bottom-0 right-0 z-50 pointer-events-none w-[200px] md:w-[300px] lg:w-[400px] flex items-end justify-end">
-                <img src="/assets/zijbalk%20en%20copyright/copyrighthoekje%20zwart.png" alt="Copyright Background" className="w-full h-auto object-contain object-bottom drop-shadow-sm opacity-90" />
+                <img src="/assets/sidebar/copyrighthoekje_zwart.png" alt="Copyright Background" className="w-full h-auto object-contain object-bottom drop-shadow-sm opacity-90" />
                 <div className="absolute bottom-4 right-4 md:bottom-6 md:right-6 lg:bottom-8 lg:right-8 text-white font-sans text-[10px] md:text-xs opacity-80 text-right">
                     © {new Date().getFullYear()} Dwars
                 </div>
