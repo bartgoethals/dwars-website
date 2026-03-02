@@ -35,7 +35,7 @@ export default function EditiesPage() {
         .sort((a, b) => b.number - a.number); // Sort newest to oldest
 
     return (
-        <div className="flex flex-col flex-1 bg-white dark:bg-black text-black dark:text-white transition-colors duration-300 min-h-screen">
+        <div className="flex flex-col w-full min-h-full pb-48 relative transition-colors duration-300">
             <main className="flex-grow pb-12 pt-16 lg:pt-24 px-4 sm:px-6 lg:px-8 max-w-[1600px] mx-auto w-full">
                 {/* Header Section */}
                 <div className="mb-12 border-b border-black dark:border-white pb-6 pt-12 md:pt-0">
