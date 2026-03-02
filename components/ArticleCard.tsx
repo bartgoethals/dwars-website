@@ -23,18 +23,12 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
                         <div className="relative w-full overflow-hidden grayscale group-hover:grayscale-0 transition-all duration-700">
                             <img src={imageUrl} alt={title} className="w-full h-auto object-cover block" />
                             <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent opacity-80 group-hover:opacity-90 transition-opacity duration-300 pointer-events-none" />
-                            <div className="absolute bottom-0 left-0 p-5 md:p-6 w-full pointer-events-none">
-                                <h3 className="text-xl md:text-2xl font-heading leading-tight text-white uppercase drop-shadow-md tracking-wide group-hover:text-dwars-pink transition-colors line-clamp-3">
+                            <div className="absolute bottom-0 left-0 p-5 md:p-6 w-5/6 pointer-events-none">
+                                <h3 className="text-lg md:text-xl font-heading leading-tight text-white uppercase drop-shadow-md tracking-wide group-hover:text-dwars-pink transition-colors line-clamp-3">
                                     {title}
                                 </h3>
                             </div>
 
-                            {/* Pink Cursor pseudo-element effect on hover */}
-                            <div className="absolute opacity-0 group-hover:opacity-100 right-4 bottom-4 w-8 h-8 pointer-events-none transition-opacity text-dwars-pink">
-                                <svg viewBox="0 0 24 24" fill="currentColor" className="w-full h-full transform -rotate-45 drop-shadow-md">
-                                    <path d="M4 0l16 12-7 2 4 8-4 2-4-8-3 5z" />
-                                </svg>
-                            </div>
                         </div>
                     ) : (
                         <div className="py-2 mb-2 group-hover:bg-gray-50 transition-colors">
@@ -60,12 +54,6 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
                     <Link href={`/artikels/${slug}`}>
                         <img src={imageUrl} alt={title} className="w-full h-auto object-cover aspect-video bg-dwars-gray" />
 
-                        {/* Pink Cursor pseudo-element effect on hover, a nice visual Easter egg */}
-                        <div className="absolute opacity-0 group-hover:opacity-100 right-4 bottom-4 w-8 h-8 pointer-events-none transition-opacity text-dwars-pink">
-                            <svg viewBox="0 0 24 24" fill="currentColor" className="w-full h-full transform -rotate-45 drop-shadow-md">
-                                <path d="M4 0l16 12-7 2 4 8-4 2-4-8-3 5z" />
-                            </svg>
-                        </div>
                     </Link>
                 </div>
             )}
