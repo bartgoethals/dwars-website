@@ -28,7 +28,7 @@ export default function Sidebar() {
     };
 
     return (
-        <aside className="relative flex w-1/4 min-w-[260px] max-w-[320px] h-screen shrink-0 sticky top-0">
+        <aside className="hidden md:flex relative w-1/4 min-w-[260px] max-w-[320px] h-screen shrink-0 sticky top-0">
             {/* Background layer with torn paper edge */}
             <div className="absolute inset-0 flex z-0 pointer-events-none">
                 <div className="flex-1 bg-black"></div>

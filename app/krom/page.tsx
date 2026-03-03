@@ -35,8 +35,8 @@ export default async function Krom() {
                                 {/* Dark gradient at bottom for text readability */}
                                 <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent opacity-80 group-hover:opacity-90 transition-opacity" />
 
-                                <div className="absolute bottom-0 left-0 p-8 md:p-12 w-full flex items-end">
-                                    <h1 className="text-3xl md:text-4xl lg:text-5xl max-w-[90%] font-heading leading-[0.9] uppercase tracking-wide text-white drop-shadow-xl group-hover:text-dwars-pink transition-colors">
+                                <div className="absolute bottom-0 left-0 p-4 md:p-8 lg:p-12 w-full flex items-end">
+                                    <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl max-w-[95%] font-heading leading-[0.9] uppercase tracking-wide text-white drop-shadow-xl group-hover:text-dwars-pink transition-colors">
                                         {heroArticle.title.split(': ').map((part, index, arr) => (
                                             <span key={index}>
                                                 {part}

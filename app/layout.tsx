@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter, Montserrat } from "next/font/google";
 import "./globals.css";
 import Sidebar from "@/components/Sidebar";
+import MobileHeader from "@/components/MobileHeader";
 import { ThemeProvider } from "@/lib/ThemeContext";
 
 const inter = Inter({
@@ -32,7 +33,8 @@ export default function RootLayout({
         className={`${inter.variable} ${montserrat.variable} antialiased font-sans transition-colors duration-300 bg-white dark:bg-[#222] text-black dark:text-gray-100`}
       >
         <ThemeProvider>
-          <div className="flex min-h-screen w-full relative">
+          <div className="flex flex-col md:flex-row min-h-screen w-full relative">
+            <MobileHeader />
             <Sidebar />
             <main className="flex-1 flex flex-col min-w-0 relative">
               <BackButton />
