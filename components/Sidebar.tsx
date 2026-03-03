@@ -20,6 +20,7 @@ export default function Sidebar() {
     const router = useRouter();
     const pathname = usePathname();
     const [searchQuery, setSearchQuery] = useState('');
+    const [isSpinning, setIsSpinning] = useState(false);
 
     const handleKeyDown = (e: React.KeyboardEvent<HTMLInputElement>) => {
         if (e.key === 'Enter' && searchQuery.trim()) {
@@ -43,7 +44,7 @@ export default function Sidebar() {
                 {/* Logo and "Nieuwste Editie" */}
                 <div className="flex flex-col shrink-0">
                     <Link href="/" className="flex flex-col gap-1.5">
-                        <div className="relative w-[80%] md:w-[85%] aspect-[2.5/1]">
+                        <div className={`relative w-[80%] md:w-[85%] aspect-[2.5/1] origin-center ${isSpinning ? 'animate-logo-spin' : ''}`}>
                             {pathname?.startsWith('/krom') ? (
                                 <Image src="/assets/krom_logo.png" alt="Krom Logo" fill className="object-contain object-left" priority />
                             ) : (
@@ -74,7 +75,17 @@ export default function Sidebar() {
                     {/* Navigation Items */}
                     <nav className="text-white flex flex-col gap-1.5 font-brother font-bold tracking-wide uppercase mt-1">
                         {navItems.map((item) => (
-                            <Link key={item.label} href={item.href} className="flex items-center gap-1.5 group cursor-pointer hover:text-dwars-pink transition-colors">
+                            <Link
+                                key={item.label}
+                                href={item.href}
+                                onClick={() => {
+                                    if (item.href === '/krom' && !isSpinning) {
+                                        setIsSpinning(true);
+                                        setTimeout(() => setIsSpinning(false), 1500);
+                                    }
+                                }}
+                                className="flex items-center gap-1.5 group cursor-pointer hover:text-dwars-pink transition-colors"
+                            >
                                 <div className="w-[10px] md:w-[12px] h-[10px] md:h-[12px] relative shrink-0">
                                     <Image src={item.icon} alt={item.label} fill className="object-contain" />
                                 </div>

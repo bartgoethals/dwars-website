@@ -97,3 +97,17 @@ body {
     transform: rotate(3deg);
   }
 }
+
+@keyframes logoSpin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(720deg);
+  }
+}
+
+.animate-logo-spin {
+  animation: logoSpin 1.5s ease-in-out;
+}
