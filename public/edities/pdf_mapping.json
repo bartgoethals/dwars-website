@@ -1,0 +1,1290 @@
+{
+    "1": {
+        "url": "https://dwars.be/sites/default/files/dwars1.pdf",
+        "number": 1,
+        "filename": "dwars-1.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars1-cover.jpg",
+        "cover_filename": "cover-1.jpg",
+        "cover_local_path": "/edities-covers/cover-1.jpg"
+    },
+    "2": {
+        "url": "https://dwars.be/sites/default/files/dwars2.pdf",
+        "number": 2,
+        "filename": "dwars-2.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars2-cover.jpg",
+        "cover_filename": "cover-2.jpg",
+        "cover_local_path": "/edities-covers/cover-2.jpg"
+    },
+    "3": {
+        "url": "https://dwars.be/sites/default/files/dwars3.pdf",
+        "number": 3,
+        "filename": "dwars-3.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars3-cover.jpg",
+        "cover_filename": "cover-3.jpg",
+        "cover_local_path": "/edities-covers/cover-3.jpg"
+    },
+    "4": {
+        "url": "https://dwars.be/sites/default/files/dwars4.pdf",
+        "number": 4,
+        "filename": "dwars-4.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars4-cover.jpg",
+        "cover_filename": "cover-4.jpg",
+        "cover_local_path": "/edities-covers/cover-4.jpg"
+    },
+    "5": {
+        "url": "https://dwars.be/sites/default/files/dwars5.pdf",
+        "number": 5,
+        "filename": "dwars-5.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars5-cover.jpg",
+        "cover_filename": "cover-5.jpg",
+        "cover_local_path": "/edities-covers/cover-5.jpg"
+    },
+    "6": {
+        "url": "https://dwars.be/sites/default/files/dwars6.pdf",
+        "number": 6,
+        "filename": "dwars-6.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars6-cover.jpg",
+        "cover_filename": "cover-6.jpg",
+        "cover_local_path": "/edities-covers/cover-6.jpg"
+    },
+    "7": {
+        "url": "https://dwars.be/sites/default/files/dwars7.pdf",
+        "number": 7,
+        "filename": "dwars-7.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars7-cover.jpg",
+        "cover_filename": "cover-7.jpg",
+        "cover_local_path": "/edities-covers/cover-7.jpg"
+    },
+    "8": {
+        "url": "https://dwars.be/sites/default/files/dwars8.pdf",
+        "number": 8,
+        "filename": "dwars-8.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars8-cover.jpg",
+        "cover_filename": "cover-8.jpg",
+        "cover_local_path": "/edities-covers/cover-8.jpg"
+    },
+    "9": {
+        "url": "https://dwars.be/sites/default/files/dwars9.pdf",
+        "number": 9,
+        "filename": "dwars-9.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars9-cover.jpg",
+        "cover_filename": "cover-9.jpg",
+        "cover_local_path": "/edities-covers/cover-9.jpg"
+    },
+    "10": {
+        "url": "https://dwars.be/sites/default/files/dwars10.pdf",
+        "number": 10,
+        "filename": "dwars-10.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars10-cover.jpg",
+        "cover_filename": "cover-10.jpg",
+        "cover_local_path": "/edities-covers/cover-10.jpg"
+    },
+    "11": {
+        "url": "https://dwars.be/sites/default/files/dwars_11_0.pdf",
+        "number": 11,
+        "filename": "dwars-11.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_11.png",
+        "cover_filename": "cover-11.png",
+        "cover_local_path": "/edities-covers/cover-11.png"
+    },
+    "12": {
+        "url": "https://dwars.be/sites/default/files/dwars_12_0.pdf",
+        "number": 12,
+        "filename": "dwars-12.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_12.png",
+        "cover_filename": "cover-12.png",
+        "cover_local_path": "/edities-covers/cover-12.png"
+    },
+    "13": {
+        "url": "https://dwars.be/sites/default/files/dwars_13_0.pdf",
+        "number": 13,
+        "filename": "dwars-13.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_13.png",
+        "cover_filename": "cover-13.png",
+        "cover_local_path": "/edities-covers/cover-13.png"
+    },
+    "14": {
+        "url": "https://dwars.be/sites/default/files/dwars_14_0.pdf",
+        "number": 14,
+        "filename": "dwars-14.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_14.png",
+        "cover_filename": "cover-14.png",
+        "cover_local_path": "/edities-covers/cover-14.png"
+    },
+    "15": {
+        "url": "https://dwars.be/sites/default/files/dwars_15_0.pdf",
+        "number": 15,
+        "filename": "dwars-15.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_15.png",
+        "cover_filename": "cover-15.png",
+        "cover_local_path": "/edities-covers/cover-15.png"
+    },
+    "16": {
+        "url": "https://dwars.be/sites/default/files/dwars_16_0.pdf",
+        "number": 16,
+        "filename": "dwars-16.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_16.png",
+        "cover_filename": "cover-16.png",
+        "cover_local_path": "/edities-covers/cover-16.png"
+    },
+    "17": {
+        "url": "https://dwars.be/sites/default/files/dwars_17_0.pdf",
+        "number": 17,
+        "filename": "dwars-17.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_17.png",
+        "cover_filename": "cover-17.png",
+        "cover_local_path": "/edities-covers/cover-17.png"
+    },
+    "18": {
+        "url": "https://dwars.be/sites/default/files/dwars_18_0.pdf",
+        "number": 18,
+        "filename": "dwars-18.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_18.png",
+        "cover_filename": "cover-18.png",
+        "cover_local_path": "/edities-covers/cover-18.png"
+    },
+    "19": {
+        "url": "https://dwars.be/sites/default/files/dwars_19_0.pdf",
+        "number": 19,
+        "filename": "dwars-19.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_19.png",
+        "cover_filename": "cover-19.png",
+        "cover_local_path": "/edities-covers/cover-19.png"
+    },
+    "20": {
+        "url": "https://dwars.be/sites/default/files/dwars20verbeterd_0.pdf",
+        "number": 20,
+        "filename": "dwars-20.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars20verbeterd.png",
+        "cover_filename": "cover-20.png",
+        "cover_local_path": "/edities-covers/cover-20.png"
+    },
+    "21": {
+        "url": "https://dwars.be/sites/default/files/nummer21_1.pdf",
+        "number": 21,
+        "filename": "dwars-21.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/nummer21.png",
+        "cover_filename": "cover-21.png",
+        "cover_local_path": "/edities-covers/cover-21.png"
+    },
+    "22": {
+        "url": "https://dwars.be/sites/default/files/dwars_22_0.pdf",
+        "number": 22,
+        "filename": "dwars-22.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_22.png",
+        "cover_filename": "cover-22.png",
+        "cover_local_path": "/edities-covers/cover-22.png"
+    },
+    "23": {
+        "url": "https://dwars.be/sites/default/files/dwars_23_0.pdf",
+        "number": 23,
+        "filename": "dwars-23.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_23.png",
+        "cover_filename": "cover-23.png",
+        "cover_local_path": "/edities-covers/cover-23.png"
+    },
+    "24": {
+        "url": "https://dwars.be/sites/default/files/dwars_24_0.pdf",
+        "number": 24,
+        "filename": "dwars-24.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_24.png",
+        "cover_filename": "cover-24.png",
+        "cover_local_path": "/edities-covers/cover-24.png"
+    },
+    "25": {
+        "url": "https://dwars.be/sites/default/files/dwars_25_0.pdf",
+        "number": 25,
+        "filename": "dwars-25.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_25.png",
+        "cover_filename": "cover-25.png",
+        "cover_local_path": "/edities-covers/cover-25.png"
+    },
+    "26": {
+        "url": "https://dwars.be/sites/default/files/nummer26web-2_1.pdf",
+        "number": 26,
+        "filename": "dwars-26.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/nummer26web-2.png",
+        "cover_filename": "cover-26.png",
+        "cover_local_path": "/edities-covers/cover-26.png"
+    },
+    "27": {
+        "url": "https://dwars.be/sites/default/files/dwars_27_0.pdf",
+        "number": 27,
+        "filename": "dwars-27.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_27.png",
+        "cover_filename": "cover-27.png",
+        "cover_local_path": "/edities-covers/cover-27.png"
+    },
+    "28": {
+        "url": "https://dwars.be/sites/default/files/dwars_28_0.pdf",
+        "number": 28,
+        "filename": "dwars-28.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_28.png",
+        "cover_filename": "cover-28.png",
+        "cover_local_path": "/edities-covers/cover-28.png"
+    },
+    "29": {
+        "url": "https://dwars.be/sites/default/files/dwars_29_0.pdf",
+        "number": 29,
+        "filename": "dwars-29.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_29.png",
+        "cover_filename": "cover-29.png",
+        "cover_local_path": "/edities-covers/cover-29.png"
+    },
+    "30": {
+        "url": "https://dwars.be/sites/default/files/dwars_30_0.pdf",
+        "number": 30,
+        "filename": "dwars-30.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_30.png",
+        "cover_filename": "cover-30.png",
+        "cover_local_path": "/edities-covers/cover-30.png"
+    },
+    "31": {
+        "url": "https://dwars.be/sites/default/files/dwars_31_0.pdf",
+        "number": 31,
+        "filename": "dwars-31.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_31.png",
+        "cover_filename": "cover-31.png",
+        "cover_local_path": "/edities-covers/cover-31.png"
+    },
+    "32": {
+        "url": "https://dwars.be/sites/default/files/dwars_32_0.pdf",
+        "number": 32,
+        "filename": "dwars-32.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_32.png",
+        "cover_filename": "cover-32.png",
+        "cover_local_path": "/edities-covers/cover-32.png"
+    },
+    "33": {
+        "url": "https://dwars.be/sites/default/files/dwars_33_0.pdf",
+        "number": 33,
+        "filename": "dwars-33.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_33.png",
+        "cover_filename": "cover-33.png",
+        "cover_local_path": "/edities-covers/cover-33.png"
+    },
+    "34": {
+        "url": "https://dwars.be/sites/default/files/nummer_34_1.pdf",
+        "number": 34,
+        "filename": "dwars-34.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/nummer_34.png",
+        "cover_filename": "cover-34.png",
+        "cover_local_path": "/edities-covers/cover-34.png"
+    },
+    "35": {
+        "url": "https://dwars.be/sites/default/files/35-2_1.pdf",
+        "number": 35,
+        "filename": "dwars-35.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/35-2.png",
+        "cover_filename": "cover-35.png",
+        "cover_local_path": "/edities-covers/cover-35.png"
+    },
+    "36": {
+        "url": "https://dwars.be/sites/default/files/dwars36_0.pdf",
+        "number": 36,
+        "filename": "dwars-36.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars36.png",
+        "cover_filename": "cover-36.png",
+        "cover_local_path": "/edities-covers/cover-36.png"
+    },
+    "37": {
+        "url": "https://dwars.be/sites/default/files/pdf_dwars37-2_2.pdf",
+        "number": 37,
+        "filename": "dwars-37.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/pdf_dwars37-2.png",
+        "cover_filename": "cover-37.png",
+        "cover_local_path": "/edities-covers/cover-37.png"
+    },
+    "38": {
+        "url": "https://dwars.be/sites/default/files/dwars38_0.pdf",
+        "number": 38,
+        "filename": "dwars-38.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars38.png",
+        "cover_filename": "cover-38.png",
+        "cover_local_path": "/edities-covers/cover-38.png"
+    },
+    "39": {
+        "url": "https://dwars.be/sites/default/files/dwars39_internet_0.pdf",
+        "number": 39,
+        "filename": "dwars-39.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars39_internet.png",
+        "cover_filename": "cover-39.png",
+        "cover_local_path": "/edities-covers/cover-39.png"
+    },
+    "40": {
+        "url": "https://dwars.be/sites/default/files/dwars40_internet_0.pdf",
+        "number": 40,
+        "filename": "dwars-40.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars40.png",
+        "cover_filename": "cover-40.png",
+        "cover_local_path": "/edities-covers/cover-40.png"
+    },
+    "41": {
+        "url": "https://dwars.be/sites/default/files/dwars41_0.pdf",
+        "number": 41,
+        "filename": "dwars-41.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars41.png",
+        "cover_filename": "cover-41.png",
+        "cover_local_path": "/edities-covers/cover-41.png"
+    },
+    "42": {
+        "url": "https://dwars.be/sites/default/files/dwars42_internet_0.pdf",
+        "number": 42,
+        "filename": "dwars-42.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars42_internet.png",
+        "cover_filename": "cover-42.png",
+        "cover_local_path": "/edities-covers/cover-42.png"
+    },
+    "43": {
+        "url": "https://dwars.be/sites/default/files/dwars43_0.pdf",
+        "number": 43,
+        "filename": "dwars-43.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars43.png",
+        "cover_filename": "cover-43.png",
+        "cover_local_path": "/edities-covers/cover-43.png"
+    },
+    "44": {
+        "url": "https://dwars.be/sites/default/files/dwars44_online_0.pdf",
+        "number": 44,
+        "filename": "dwars-44.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars44_online.png",
+        "cover_filename": "cover-44.png",
+        "cover_local_path": "/edities-covers/cover-44.png"
+    },
+    "45": {
+        "url": "https://dwars.be/sites/default/files/dwars45_online_0.pdf",
+        "number": 45,
+        "filename": "dwars-45.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars45_online.png",
+        "cover_filename": "cover-45.png",
+        "cover_local_path": "/edities-covers/cover-45.png"
+    },
+    "46": {
+        "url": "https://dwars.be/sites/default/files/dwars46_online_0.pdf",
+        "number": 46,
+        "filename": "dwars-46.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars46_online.png",
+        "cover_filename": "cover-46.png",
+        "cover_local_path": "/edities-covers/cover-46.png"
+    },
+    "47": {
+        "url": "https://dwars.be/sites/default/files/dwars47_web_0.pdf",
+        "number": 47,
+        "filename": "dwars-47.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars47_web.png",
+        "cover_filename": "cover-47.png",
+        "cover_local_path": "/edities-covers/cover-47.png"
+    },
+    "48": {
+        "url": "https://dwars.be/sites/default/files/dwars48_web_0.pdf",
+        "number": 48,
+        "filename": "dwars-48.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars48_web.png",
+        "cover_filename": "cover-48.png",
+        "cover_local_path": "/edities-covers/cover-48.png"
+    },
+    "49": {
+        "url": "https://dwars.be/sites/default/files/dwars49_website_0.pdf",
+        "number": 49,
+        "filename": "dwars-49.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars49_website.png",
+        "cover_filename": "cover-49.png",
+        "cover_local_path": "/edities-covers/cover-49.png"
+    },
+    "50": {
+        "url": "https://dwars.be/sites/default/files/dwars50_0.pdf",
+        "number": 50,
+        "filename": "dwars-50.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars50%20-%20cover.png",
+        "cover_filename": "cover-50.png",
+        "cover_local_path": "/edities-covers/cover-50.png"
+    },
+    "51": {
+        "url": "https://dwars.be/sites/default/files/dwars51.pdf",
+        "number": 51,
+        "filename": "dwars-51.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars51_website_0.png",
+        "cover_filename": "cover-51.png",
+        "cover_local_path": "/edities-covers/cover-51.png"
+    },
+    "52": {
+        "url": "https://dwars.be/sites/default/files/dwars52.pdf",
+        "number": 52,
+        "filename": "dwars-52.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars52%20-%20cover.png",
+        "cover_filename": "cover-52.png",
+        "cover_local_path": "/edities-covers/cover-52.png"
+    },
+    "53": {
+        "url": "https://dwars.be/sites/default/files/dwars53.pdf",
+        "number": 53,
+        "filename": "dwars-53.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars53%20-%20cover.png",
+        "cover_filename": "cover-53.png",
+        "cover_local_path": "/edities-covers/cover-53.png"
+    },
+    "54": {
+        "url": "https://dwars.be/sites/default/files/dwars54.pdf",
+        "number": 54,
+        "filename": "dwars-54.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars54%20-%20cover.png",
+        "cover_filename": "cover-54.png",
+        "cover_local_path": "/edities-covers/cover-54.png"
+    },
+    "55": {
+        "url": "https://dwars.be/sites/default/files/dwars55_0.pdf",
+        "number": 55,
+        "filename": "dwars-55.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars55%20-%20cover.png",
+        "cover_filename": "cover-55.png",
+        "cover_local_path": "/edities-covers/cover-55.png"
+    },
+    "56": {
+        "url": "https://dwars.be/sites/default/files/dwars56.pdf",
+        "number": 56,
+        "filename": "dwars-56.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars56%20-%20cover.png",
+        "cover_filename": "cover-56.png",
+        "cover_local_path": "/edities-covers/cover-56.png"
+    },
+    "57": {
+        "url": "https://dwars.be/sites/default/files/dwars57_0.pdf",
+        "number": 57,
+        "filename": "dwars-57.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars57%20-%20cover.png",
+        "cover_filename": "cover-57.png",
+        "cover_local_path": "/edities-covers/cover-57.png"
+    },
+    "58": {
+        "url": "https://dwars.be/sites/default/files/dwars58.pdf",
+        "number": 58,
+        "filename": "dwars-58.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars58%20-%20cover.png",
+        "cover_filename": "cover-58.png",
+        "cover_local_path": "/edities-covers/cover-58.png"
+    },
+    "59": {
+        "url": "https://dwars.be/sites/default/files/dwars59.pdf",
+        "number": 59,
+        "filename": "dwars-59.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars59%20-%20cover.png",
+        "cover_filename": "cover-59.png",
+        "cover_local_path": "/edities-covers/cover-59.png"
+    },
+    "60": {
+        "url": "https://dwars.be/sites/default/files/dwars60.pdf",
+        "number": 60,
+        "filename": "dwars-60.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars60%20-%20cover.png",
+        "cover_filename": "cover-60.png",
+        "cover_local_path": "/edities-covers/cover-60.png"
+    },
+    "61": {
+        "url": "https://dwars.be/sites/default/files/dwars61.pdf",
+        "number": 61,
+        "filename": "dwars-61.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars61-cover.png",
+        "cover_filename": "cover-61.png",
+        "cover_local_path": "/edities-covers/cover-61.png"
+    },
+    "62": {
+        "url": "https://dwars.be/sites/default/files/dwars62.pdf",
+        "number": 62,
+        "filename": "dwars-62.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars62-cover.png",
+        "cover_filename": "cover-62.png",
+        "cover_local_path": "/edities-covers/cover-62.png"
+    },
+    "63": {
+        "url": "https://dwars.be/sites/default/files/dwars63_0.pdf",
+        "number": 63,
+        "filename": "dwars-63.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars63-cover.png",
+        "cover_filename": "cover-63.png",
+        "cover_local_path": "/edities-covers/cover-63.png"
+    },
+    "64": {
+        "url": "https://dwars.be/sites/default/files/dwars64.pdf",
+        "number": 64,
+        "filename": "dwars-64.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars64-cover.png",
+        "cover_filename": "cover-64.png",
+        "cover_local_path": "/edities-covers/cover-64.png"
+    },
+    "65": {
+        "url": "https://dwars.be/sites/default/files/dwars65.pdf",
+        "number": 65,
+        "filename": "dwars-65.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars65.png",
+        "cover_filename": "cover-65.png",
+        "cover_local_path": "/edities-covers/cover-65.png"
+    },
+    "66": {
+        "url": "https://dwars.be/sites/default/files/dwars66.pdf",
+        "number": 66,
+        "filename": "dwars-66.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars66.png",
+        "cover_filename": "cover-66.png",
+        "cover_local_path": "/edities-covers/cover-66.png"
+    },
+    "67": {
+        "url": "https://dwars.be/sites/default/files/dwars67.pdf",
+        "number": 67,
+        "filename": "dwars-67.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars67-cover.png",
+        "cover_filename": "cover-67.png",
+        "cover_local_path": "/edities-covers/cover-67.png"
+    },
+    "68": {
+        "url": "https://dwars.be/sites/default/files/dwars68.pdf",
+        "number": 68,
+        "filename": "dwars-68.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars68-cover.png",
+        "cover_filename": "cover-68.png",
+        "cover_local_path": "/edities-covers/cover-68.png"
+    },
+    "69": {
+        "url": "https://dwars.be/sites/default/files/dwars69.pdf",
+        "number": 69,
+        "filename": "dwars-69.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars69-cover.png",
+        "cover_filename": "cover-69.png",
+        "cover_local_path": "/edities-covers/cover-69.png"
+    },
+    "70": {
+        "url": "https://dwars.be/sites/default/files/dwars70_0.pdf",
+        "number": 70,
+        "filename": "dwars-70.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars70-cover.png",
+        "cover_filename": "cover-70.png",
+        "cover_local_path": "/edities-covers/cover-70.png"
+    },
+    "71": {
+        "url": "https://dwars.be/sites/default/files/dwars71_0.pdf",
+        "number": 71,
+        "filename": "dwars-71.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars71-cover.png",
+        "cover_filename": "cover-71.png",
+        "cover_local_path": "/edities-covers/cover-71.png"
+    },
+    "72": {
+        "url": "https://dwars.be/sites/default/files/dwars72.pdf",
+        "number": 72,
+        "filename": "dwars-72.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars72-cover.png",
+        "cover_filename": "cover-72.png",
+        "cover_local_path": "/edities-covers/cover-72.png"
+    },
+    "73": {
+        "url": "https://dwars.be/sites/default/files/dwars73_2.pdf",
+        "number": 73,
+        "filename": "dwars-73.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars73-cover_0.png",
+        "cover_filename": "cover-73.png",
+        "cover_local_path": "/edities-covers/cover-73.png"
+    },
+    "74": {
+        "url": "https://dwars.be/sites/default/files/dwars74_1.pdf",
+        "number": 74,
+        "filename": "dwars-74.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars74-cover.png",
+        "cover_filename": "cover-74.png",
+        "cover_local_path": "/edities-covers/cover-74.png"
+    },
+    "75": {
+        "url": "https://dwars.be/sites/default/files/dwars75.pdf",
+        "number": 75,
+        "filename": "dwars-75.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars75-cover.png",
+        "cover_filename": "cover-75.png",
+        "cover_local_path": "/edities-covers/cover-75.png"
+    },
+    "76": {
+        "url": "https://dwars.be/sites/default/files/dwars76.pdf",
+        "number": 76,
+        "filename": "dwars-76.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars76-cover.png",
+        "cover_filename": "cover-76.png",
+        "cover_local_path": "/edities-covers/cover-76.png"
+    },
+    "77": {
+        "url": "https://dwars.be/sites/default/files/dwars77.pdf",
+        "number": 77,
+        "filename": "dwars-77.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars77-cover.png",
+        "cover_filename": "cover-77.png",
+        "cover_local_path": "/edities-covers/cover-77.png"
+    },
+    "78": {
+        "url": "https://dwars.be/sites/default/files/dwars78.pdf",
+        "number": 78,
+        "filename": "dwars-78.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars78-cover.png",
+        "cover_filename": "cover-78.png",
+        "cover_local_path": "/edities-covers/cover-78.png"
+    },
+    "79": {
+        "url": "https://dwars.be/sites/default/files/dwars79.pdf",
+        "number": 79,
+        "filename": "dwars-79.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars79-cover.png",
+        "cover_filename": "cover-79.png",
+        "cover_local_path": "/edities-covers/cover-79.png"
+    },
+    "80": {
+        "url": "https://dwars.be/sites/default/files/dwars80_0.pdf",
+        "number": 80,
+        "filename": "dwars-80.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars80-cover.png",
+        "cover_filename": "cover-80.png",
+        "cover_local_path": "/edities-covers/cover-80.png"
+    },
+    "81": {
+        "url": "https://dwars.be/sites/default/files/dwars81_0.pdf",
+        "number": 81,
+        "filename": "dwars-81.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars81-cover.jpg",
+        "cover_filename": "cover-81.jpg",
+        "cover_local_path": "/edities-covers/cover-81.jpg"
+    },
+    "82": {
+        "url": "https://dwars.be/sites/default/files/dwars82.pdf",
+        "number": 82,
+        "filename": "dwars-82.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars82-cover.jpg",
+        "cover_filename": "cover-82.jpg",
+        "cover_local_path": "/edities-covers/cover-82.jpg"
+    },
+    "83": {
+        "url": "https://dwars.be/sites/default/files/dwars83.pdf",
+        "number": 83,
+        "filename": "dwars-83.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars83-cover.jpg",
+        "cover_filename": "cover-83.jpg",
+        "cover_local_path": "/edities-covers/cover-83.jpg"
+    },
+    "84": {
+        "url": "https://dwars.be/sites/default/files/dwars84.pdf",
+        "number": 84,
+        "filename": "dwars-84.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars84-cover.jpg",
+        "cover_filename": "cover-84.jpg",
+        "cover_local_path": "/edities-covers/cover-84.jpg"
+    },
+    "85": {
+        "url": "https://dwars.be/sites/default/files/dwars85.pdf",
+        "number": 85,
+        "filename": "dwars-85.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars85-cover.jpg",
+        "cover_filename": "cover-85.jpg",
+        "cover_local_path": "/edities-covers/cover-85.jpg"
+    },
+    "86": {
+        "url": "https://dwars.be/sites/default/files/dwars86.pdf",
+        "number": 86,
+        "filename": "dwars-86.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars86-cover.jpg",
+        "cover_filename": "cover-86.jpg",
+        "cover_local_path": "/edities-covers/cover-86.jpg"
+    },
+    "87": {
+        "url": "https://dwars.be/sites/default/files/dwars87.pdf",
+        "number": 87,
+        "filename": "dwars-87.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars87-cover.jpg",
+        "cover_filename": "cover-87.jpg",
+        "cover_local_path": "/edities-covers/cover-87.jpg"
+    },
+    "88": {
+        "url": "https://dwars.be/sites/default/files/dwars88_0.pdf",
+        "number": 88,
+        "filename": "dwars-88.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars88-cover.jpg",
+        "cover_filename": "cover-88.jpg",
+        "cover_local_path": "/edities-covers/cover-88.jpg"
+    },
+    "89": {
+        "url": "https://dwars.be/sites/default/files/dwars89_0.pdf",
+        "number": 89,
+        "filename": "dwars-89.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars89-cover.jpg",
+        "cover_filename": "cover-89.jpg",
+        "cover_local_path": "/edities-covers/cover-89.jpg"
+    },
+    "90": {
+        "url": "https://dwars.be/sites/default/files/dwars90.pdf",
+        "number": 90,
+        "filename": "dwars-90.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars90-cover.jpg",
+        "cover_filename": "cover-90.jpg",
+        "cover_local_path": "/edities-covers/cover-90.jpg"
+    },
+    "91": {
+        "url": "https://dwars.be/sites/default/files/dwars91.pdf",
+        "number": 91,
+        "filename": "dwars-91.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars91-cover.jpg",
+        "cover_filename": "cover-91.jpg",
+        "cover_local_path": "/edities-covers/cover-91.jpg"
+    },
+    "92": {
+        "url": "https://dwars.be/sites/default/files/dwars92.pdf",
+        "number": 92,
+        "filename": "dwars-92.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars92-cover.jpg",
+        "cover_filename": "cover-92.jpg",
+        "cover_local_path": "/edities-covers/cover-92.jpg"
+    },
+    "93": {
+        "url": "https://dwars.be/sites/default/files/dwars93.pdf",
+        "number": 93,
+        "filename": "dwars-93.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars93-cover.jpg",
+        "cover_filename": "cover-93.jpg",
+        "cover_local_path": "/edities-covers/cover-93.jpg"
+    },
+    "94": {
+        "url": "https://dwars.be/sites/default/files/dwars94_0.pdf",
+        "number": 94,
+        "filename": "dwars-94.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars94-cover.jpg",
+        "cover_filename": "cover-94.jpg",
+        "cover_local_path": "/edities-covers/cover-94.jpg"
+    },
+    "96": {
+        "url": "https://dwars.be/sites/default/files/dwars96.pdf",
+        "number": 96,
+        "filename": "dwars-96.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars96-cover.jpg",
+        "cover_filename": "cover-96.jpg",
+        "cover_local_path": "/edities-covers/cover-96.jpg"
+    },
+    "97": {
+        "url": "https://dwars.be/sites/default/files/dwars97.pdf",
+        "number": 97,
+        "filename": "dwars-97.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dw97-cover.jpg",
+        "cover_filename": "cover-97.jpg",
+        "cover_local_path": "/edities-covers/cover-97.jpg"
+    },
+    "98": {
+        "url": "https://dwars.be/sites/default/files/dwars98.pdf",
+        "number": 98,
+        "filename": "dwars-98.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars98-cover.jpg",
+        "cover_filename": "cover-98.jpg",
+        "cover_local_path": "/edities-covers/cover-98.jpg"
+    },
+    "99": {
+        "url": "https://dwars.be/sites/default/files/dwars99.pdf",
+        "number": 99,
+        "filename": "dwars-99.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars99-cover.jpg",
+        "cover_filename": "cover-99.jpg",
+        "cover_local_path": "/edities-covers/cover-99.jpg"
+    },
+    "100": {
+        "url": "https://dwars.be/sites/default/files/dwars100.pdf",
+        "number": 100,
+        "filename": "dwars-100.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars100-cover.jpg",
+        "cover_filename": "cover-100.jpg",
+        "cover_local_path": "/edities-covers/cover-100.jpg"
+    },
+    "101": {
+        "url": "https://dwars.be/sites/default/files/dwars101_0.pdf",
+        "number": 101,
+        "filename": "dwars-101.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars101-cover_0.jpg",
+        "cover_filename": "cover-101.jpg",
+        "cover_local_path": "/edities-covers/cover-101.jpg"
+    },
+    "102": {
+        "url": "https://dwars.be/sites/default/files/dwars102.pdf",
+        "number": 102,
+        "filename": "dwars-102.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars102-cover.jpg",
+        "cover_filename": "cover-102.jpg",
+        "cover_local_path": "/edities-covers/cover-102.jpg"
+    },
+    "103": {
+        "url": "https://dwars.be/sites/default/files/dwars103.pdf",
+        "number": 103,
+        "filename": "dwars-103.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars103-cover.jpg",
+        "cover_filename": "cover-103.jpg",
+        "cover_local_path": "/edities-covers/cover-103.jpg"
+    },
+    "104": {
+        "url": "https://dwars.be/sites/default/files/dwars104.pdf",
+        "number": 104,
+        "filename": "dwars-104.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars104-cover.jpg",
+        "cover_filename": "cover-104.jpg",
+        "cover_local_path": "/edities-covers/cover-104.jpg"
+    },
+    "105": {
+        "url": "https://dwars.be/sites/default/files/dwars105.pdf",
+        "number": 105,
+        "filename": "dwars-105.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars105-cover.jpg",
+        "cover_filename": "cover-105.jpg",
+        "cover_local_path": "/edities-covers/cover-105.jpg"
+    },
+    "106": {
+        "url": "https://dwars.be/sites/default/files/dwars106.pdf",
+        "number": 106,
+        "filename": "dwars-106.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars106-cover.jpg",
+        "cover_filename": "cover-106.jpg",
+        "cover_local_path": "/edities-covers/cover-106.jpg"
+    },
+    "107": {
+        "url": "https://dwars.be/sites/default/files/dwars107.pdf",
+        "number": 107,
+        "filename": "dwars-107.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars107-cover.jpg",
+        "cover_filename": "cover-107.jpg",
+        "cover_local_path": "/edities-covers/cover-107.jpg"
+    },
+    "108": {
+        "url": "https://dwars.be/sites/default/files/dwars108.pdf",
+        "number": 108,
+        "filename": "dwars-108.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars108-cover.jpg",
+        "cover_filename": "cover-108.jpg",
+        "cover_local_path": "/edities-covers/cover-108.jpg"
+    },
+    "109": {
+        "url": "https://dwars.be/sites/default/files/dwars109.pdf",
+        "number": 109,
+        "filename": "dwars-109.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars109-cover.jpg",
+        "cover_filename": "cover-109.jpg",
+        "cover_local_path": "/edities-covers/cover-109.jpg"
+    },
+    "110": {
+        "url": "https://dwars.be/sites/default/files/dwars110.pdf",
+        "number": 110,
+        "filename": "dwars-110.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars110-cover.jpg",
+        "cover_filename": "cover-110.jpg",
+        "cover_local_path": "/edities-covers/cover-110.jpg"
+    },
+    "111": {
+        "url": "https://dwars.be/sites/default/files/dwars%20111%20issuu.pdf",
+        "number": 111,
+        "filename": "dwars-111.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20111%20cover.jpg",
+        "cover_filename": "cover-111.jpg",
+        "cover_local_path": "/edities-covers/cover-111.jpg"
+    },
+    "112": {
+        "url": "https://dwars.be/sites/default/files/dwars%20112%20web.pdf",
+        "number": 112,
+        "filename": "dwars-112.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20112%20cover.jpg",
+        "cover_filename": "cover-112.jpg",
+        "cover_local_path": "/edities-covers/cover-112.jpg"
+    },
+    "113": {
+        "url": "https://dwars.be/sites/default/files/dwars%20113%20web.pdf",
+        "number": 113,
+        "filename": "dwars-113.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20113%20cover.png",
+        "cover_filename": "cover-113.png",
+        "cover_local_path": "/edities-covers/cover-113.png"
+    },
+    "114": {
+        "url": "https://dwars.be/sites/default/files/dwars%20114.pdf",
+        "number": 114,
+        "filename": "dwars-114.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20114%20cover.jpg",
+        "cover_filename": "cover-114.jpg",
+        "cover_local_path": "/edities-covers/cover-114.jpg"
+    },
+    "115": {
+        "url": "https://dwars.be/sites/default/files/dwars115.pdf",
+        "number": 115,
+        "filename": "dwars-115.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars115-cover.png",
+        "cover_filename": "cover-115.png",
+        "cover_local_path": "/edities-covers/cover-115.png"
+    },
+    "116": {
+        "url": "https://dwars.be/sites/default/files/dwars%20116.pdf",
+        "number": 116,
+        "filename": "dwars-116.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20116%20cover.jpg",
+        "cover_filename": "cover-116.jpg",
+        "cover_local_path": "/edities-covers/cover-116.jpg"
+    },
+    "117": {
+        "url": "https://dwars.be/sites/default/files/dwars117.pdf",
+        "number": 117,
+        "filename": "dwars-117.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20117cover.jpg",
+        "cover_filename": "cover-117.jpg",
+        "cover_local_path": "/edities-covers/cover-117.jpg"
+    },
+    "118": {
+        "url": "https://dwars.be/sites/default/files/dwars%20118%20web.pdf",
+        "number": 118,
+        "filename": "dwars-118.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20118%20cover.jpg",
+        "cover_filename": "cover-118.jpg",
+        "cover_local_path": "/edities-covers/cover-118.jpg"
+    },
+    "119": {
+        "url": "https://dwars.be/sites/default/files/dwars%20119%20WEB_0.pdf",
+        "number": 119,
+        "filename": "dwars-119.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20119%20COVER.jpg",
+        "cover_filename": "cover-119.jpg",
+        "cover_local_path": "/edities-covers/cover-119.jpg"
+    },
+    "120": {
+        "url": "https://dwars.be/sites/default/files/dwars%20120.pdf",
+        "number": 120,
+        "filename": "dwars-120.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20120-cover.jpg",
+        "cover_filename": "cover-120.jpg",
+        "cover_local_path": "/edities-covers/cover-120.jpg"
+    },
+    "121": {
+        "url": "https://dwars.be/sites/default/files/dwars%20121_web.pdf",
+        "number": 121,
+        "filename": "dwars-121.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20121_cover.jpg",
+        "cover_filename": "cover-121.jpg",
+        "cover_local_path": "/edities-covers/cover-121.jpg"
+    },
+    "122": {
+        "url": "https://dwars.be/sites/default/files/dwars%20122_web.pdf",
+        "number": 122,
+        "filename": "dwars-122.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars112-cover.jpg",
+        "cover_filename": "cover-122.jpg",
+        "cover_local_path": "/edities-covers/cover-122.jpg"
+    },
+    "123": {
+        "url": "https://dwars.be/sites/default/files/dwars%20123_web.pdf",
+        "number": 123,
+        "filename": "dwars-123.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20123_cover.jpg",
+        "cover_filename": "cover-123.jpg",
+        "cover_local_path": "/edities-covers/cover-123.jpg"
+    },
+    "124": {
+        "url": "https://dwars.be/sites/default/files/dwars%20124_WEB.pdf",
+        "number": 124,
+        "filename": "dwars-124.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20124_coverII.jpg",
+        "cover_filename": "cover-124.jpg",
+        "cover_local_path": "/edities-covers/cover-124.jpg"
+    },
+    "125": {
+        "url": "https://dwars.be/sites/default/files/dwars%20125.pdf",
+        "number": 125,
+        "filename": "dwars-125.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20125_COVER%20%281%29.jpg",
+        "cover_filename": "cover-125.jpg",
+        "cover_local_path": "/edities-covers/cover-125.jpg"
+    },
+    "126": {
+        "url": "https://dwars.be/sites/default/files/dwars_126_WEB.pdf",
+        "number": 126,
+        "filename": "dwars-126.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20126__20u11-1.jpg",
+        "cover_filename": "cover-126.jpg",
+        "cover_local_path": "/edities-covers/cover-126.jpg"
+    },
+    "129": {
+        "url": "/edities/eerstejaarsdwars_ web_alles.pdf",
+        "number": 129,
+        "filename": "eerstejaarsdwars_ web_alles.pdf",
+        "cover_url": "/edities-covers/eerstejaarsdwarsfoto.png",
+        "cover_filename": "eerstejaarsdwarsfoto.png",
+        "cover_local_path": "/edities-covers/eerstejaarsdwarsfoto.png"
+    },
+    "130": {
+        "url": "https://dwars.be/sites/default/files/dwars_130_website.pdf",
+        "number": 130,
+        "filename": "dwars-130.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars_130_cover.jpg",
+        "cover_filename": "cover-130.jpg",
+        "cover_local_path": "/edities-covers/cover-130.jpg"
+    },
+    "131": {
+        "url": "https://dwars.be/sites/default/files/dwars%20131_web.pdf",
+        "number": 131,
+        "filename": "dwars-131.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20131_web_cover-1.jpg",
+        "cover_filename": "cover-131.jpg",
+        "cover_local_path": "/edities-covers/cover-131.jpg"
+    },
+    "132": {
+        "url": "https://dwars.be/sites/default/files/dwars%20132_web_0.pdf",
+        "number": 132,
+        "filename": "dwars-132.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20132_cover-1.jpg",
+        "cover_filename": "cover-132.jpg",
+        "cover_local_path": "/edities-covers/cover-132.jpg"
+    },
+    "133": {
+        "url": "https://dwars.be/sites/default/files/dwars%20133_PublicatiePDF.pdf",
+        "number": 133,
+        "filename": "dwars-133.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20133_cover-1.jpg",
+        "cover_filename": "cover-133.jpg",
+        "cover_local_path": "/edities-covers/cover-133.jpg"
+    },
+    "134": {
+        "url": "https://dwars.be/sites/default/files/dwars%20134%20pdf%20web.pdf",
+        "number": 134,
+        "filename": "dwars-134.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20134%20pdf%20cover_pages-to-jpg-0001.jpg",
+        "cover_filename": "cover-134.jpg",
+        "cover_local_path": "/edities-covers/cover-134.jpg"
+    },
+    "135": {
+        "url": "https://dwars.be/sites/default/files/dwars%20135%20web.pdf",
+        "number": 135,
+        "filename": "dwars-135.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars%20135%20Cover-1.jpg",
+        "cover_filename": "cover-135.jpg",
+        "cover_local_path": "/edities-covers/cover-135.jpg"
+    },
+    "136": {
+        "url": "https://dwars.be/sites/default/files/dwars136web.pdf",
+        "number": 136,
+        "filename": "dwars-136.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/0001_0.jpg",
+        "cover_filename": "cover-136.jpg",
+        "cover_local_path": "/edities-covers/cover-136.jpg"
+    },
+    "137": {
+        "url": "https://dwars.be/sites/default/files/dwars%20137_Web.pdf",
+        "number": 137,
+        "filename": "dwars-137.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/0001_1.jpg",
+        "cover_filename": "cover-137.jpg",
+        "cover_local_path": "/edities-covers/cover-137.jpg"
+    },
+    "138": {
+        "url": "https://dwars.be/sites/default/files/138_Web.pdf",
+        "number": 138,
+        "filename": "dwars-138.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/138_Cover-min%20%281%29%20%281%29%20%281%29.png",
+        "cover_filename": "cover-138.png",
+        "cover_local_path": "/edities-covers/cover-138.png"
+    },
+    "139": {
+        "url": "https://dwars.be/sites/default/files/139_web.pdf",
+        "number": 139,
+        "filename": "dwars-139.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/139_cover2.png",
+        "cover_filename": "cover-139.png",
+        "cover_local_path": "/edities-covers/cover-139.png"
+    },
+    "140": {
+        "url": "https://dwars.be/sites/default/files/dwars140web_0.pdf",
+        "number": 140,
+        "filename": "dwars-140.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/140_Cover_0.png",
+        "cover_filename": "cover-140.png",
+        "cover_local_path": "/edities-covers/cover-140.png"
+    },
+    "141": {
+        "url": "https://dwars.be/sites/default/files/dwars141_Web.pdf",
+        "number": 141,
+        "filename": "dwars-141.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars141_cover.jpg",
+        "cover_filename": "cover-141.jpg",
+        "cover_local_path": "/edities-covers/cover-141.jpg"
+    },
+    "142": {
+        "url": "https://dwars.be/sites/default/files/142_Web-gecomprimeerd.pdf",
+        "number": 142,
+        "filename": "dwars-142.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/142_Cover.jpg",
+        "cover_filename": "cover-142.jpg",
+        "cover_local_path": "/edities-covers/cover-142.jpg"
+    },
+    "143": {
+        "url": "https://dwars.be/sites/default/files/dwars143.pdf",
+        "number": 143,
+        "filename": "dwars-143.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars143-cover.png",
+        "cover_filename": "cover-143.png",
+        "cover_local_path": "/edities-covers/cover-143.png"
+    },
+    "144": {
+        "url": "https://dwars.be/sites/default/files/dwars144.pdf",
+        "number": 144,
+        "filename": "dwars-144.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars144-cover.png",
+        "cover_filename": "cover-144.png",
+        "cover_local_path": "/edities-covers/cover-144.png"
+    },
+    "145": {
+        "url": "https://dwars.be/sites/default/files/dwars145.pdf",
+        "number": 145,
+        "filename": "dwars-145.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars145-cover.png",
+        "cover_filename": "cover-145.png",
+        "cover_local_path": "/edities-covers/cover-145.png"
+    },
+    "146": {
+        "url": "https://dwars.be/sites/default/files/dwars_146.pdf",
+        "number": 146,
+        "filename": "dwars-146.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars146-cover.jpg",
+        "cover_filename": "cover-146.jpg",
+        "cover_local_path": "/edities-covers/cover-146.jpg"
+    },
+    "147": {
+        "url": "https://dwars.be/sites/default/files/Master147_WEB.pdf",
+        "number": 147,
+        "filename": "dwars-147.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/Master147voorpagina2.jpg",
+        "cover_filename": "cover-147.jpg",
+        "cover_local_path": "/edities-covers/cover-147.jpg"
+    },
+    "149": {
+        "url": "https://dwars.be/sites/default/files/149_Web.pdf",
+        "number": 149,
+        "filename": "dwars-149.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/149_Cover.jpg",
+        "cover_filename": "cover-149.jpg",
+        "cover_local_path": "/edities-covers/cover-149.jpg"
+    },
+    "150": {
+        "url": "https://dwars.be/sites/default/files/150_Web.pdf",
+        "number": 150,
+        "filename": "dwars-150.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/150_Cover.jpg",
+        "cover_filename": "cover-150.jpg",
+        "cover_local_path": "/edities-covers/cover-150.jpg"
+    },
+    "151": {
+        "url": "https://dwars.be/sites/default/files/151_Web.pdf",
+        "number": 151,
+        "filename": "dwars-151.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/cover151.jpg",
+        "cover_filename": "cover-151.jpg",
+        "cover_local_path": "/edities-covers/cover-151.jpg"
+    },
+    "152": {
+        "url": "https://dwars.be/sites/default/files/dwars152WEB.pdf",
+        "number": 152,
+        "filename": "dwars-152.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/Scherm%C2%ADafbeelding%202023-10-14%20om%2021.15.53.png",
+        "cover_filename": "cover-152.png",
+        "cover_local_path": "/edities-covers/cover-152.png"
+    },
+    "153": {
+        "url": "/edities/vkddwars23_web.pdf",
+        "number": 153,
+        "filename": "vkddwars23_web.pdf",
+        "cover_url": "/edities-covers/voorpagina23.png",
+        "cover_filename": "voorpagina23.png",
+        "cover_local_path": "/edities-covers/voorpagina23.png"
+    },
+    "154": {
+        "url": "https://dwars.be/sites/default/files/Webversie154%20%282%29.pdf",
+        "number": 154,
+        "filename": "dwars-154.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/Scherm_afbeelding%202024-02-26%20om%2021.38.59.png",
+        "cover_filename": "cover-154.png",
+        "cover_local_path": "/edities-covers/cover-154.png"
+    },
+    "155": {
+        "url": "https://dwars.be/sites/default/files/webversie_155.pdf",
+        "number": 155,
+        "filename": "dwars-155.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/cover155.PNG",
+        "cover_filename": "cover-155.PNG",
+        "cover_local_path": "/edities-covers/cover-155.PNG"
+    },
+    "156": {
+        "url": "https://dwars.be/sites/default/files/Webversie_156.pdf",
+        "number": 156,
+        "filename": "dwars-156.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/cover156.PNG",
+        "cover_filename": "cover-156.PNG",
+        "cover_local_path": "/edities-covers/cover-156.PNG"
+    },
+    "157": {
+        "url": "https://dwars.be/sites/default/files/Webversie_157.pdf",
+        "number": 157,
+        "filename": "dwars-157.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/cover.png",
+        "cover_filename": "cover-157.png",
+        "cover_local_path": "/edities-covers/cover-157.png"
+    },
+    "158": {
+        "url": "https://dwars.be/sites/default/files/Webversie_158.pdf",
+        "number": 158,
+        "filename": "dwars-158.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/Scherm_afbeelding%202024-06-25%20om%2021.13.27.png",
+        "cover_filename": "cover-158.png",
+        "cover_local_path": "/edities-covers/cover-158.png"
+    },
+    "159": {
+        "url": "https://dwars.be/sites/default/files/dwars159_web.pdf",
+        "number": 159,
+        "filename": "dwars-159.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/cover159.png",
+        "cover_filename": "cover-159.png",
+        "cover_local_path": "/edities-covers/cover-159.png"
+    },
+    "160": {
+        "url": "https://dwars.be/sites/default/files/dwars160_web.pdf",
+        "number": 160,
+        "filename": "dwars-160.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars160_web.png",
+        "cover_filename": "cover-160.png",
+        "cover_local_path": "/edities-covers/cover-160.png"
+    },
+    "161": {
+        "url": "https://dwars.be/sites/default/files/dwars161_web.pdf",
+        "number": 161,
+        "filename": "dwars-161.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars161_afbeelding.png",
+        "cover_filename": "cover-161.png",
+        "cover_local_path": "/edities-covers/cover-161.png"
+    },
+    "162": {
+        "url": "https://dwars.be/sites/default/files/dwars162_web.pdf",
+        "number": 162,
+        "filename": "dwars-162.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/162webafbeelding.png",
+        "cover_filename": "cover-162.png",
+        "cover_local_path": "/edities-covers/cover-162.png"
+    },
+    "163": {
+        "url": "https://dwars.be/sites/default/files/dwars163_web.pdf",
+        "number": 163,
+        "filename": "dwars-163.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/dwars163_web.png",
+        "cover_filename": "cover-163.png",
+        "cover_local_path": "/edities-covers/cover-163.png"
+    },
+    "164": {
+        "url": "https://dwars.be/sites/default/files/dwars164_web.pdf",
+        "number": 164,
+        "filename": "dwars-164.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/afbeelding%20website.png",
+        "cover_filename": "cover-164.png",
+        "cover_local_path": "/edities-covers/cover-164.png"
+    },
+    "165": {
+        "url": "https://dwars.be/sites/default/files/dwars165_web.pdf",
+        "number": 165,
+        "filename": "dwars-165.pdf",
+        "cover_url": "https://dwars.be/sites/default/files/coverwebsite.png",
+        "cover_filename": "cover-165.png",
+        "cover_local_path": "/edities-covers/cover-165.png"
+    }
+}
