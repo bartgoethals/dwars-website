@@ -81,7 +81,7 @@ export default function EditiesPage() {
                                         alt={`dwars editie ${edition.number} cover`}
                                         fill
                                         sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, (max-width: 1024px) 25vw, 16vw"
-                                        className="object-contain drop-shadow-md group-hover:drop-shadow-xl transition-all duration-300 dark:mix-blend-lighten"
+                                        className="object-contain drop-shadow-md group-hover:drop-shadow-xl transition-all duration-300 dark:mix-blend-lighten grayscale group-hover:grayscale-0"
                                     />
                                 </div>
                                 <span className="font-heading text-xl uppercase tracking-wider text-black dark:text-white group-hover:text-[#FF007F] transition-colors duration-300">

@@ -19,6 +19,8 @@ export const metadata: Metadata = {
   description: "Studententijdschrift UAntwerpen",
 };
 
+import BackButton from "@/components/BackButton";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -32,8 +34,9 @@ export default function RootLayout({
         <ThemeProvider>
           <div className="flex min-h-screen w-full relative">
             <Sidebar />
-            <main className="flex-1 flex flex-col min-w-0">
-              <div className="w-full max-w-[1300px] mx-auto min-h-screen relative flex flex-col transition-colors duration-300">
+            <main className="flex-1 flex flex-col min-w-0 relative">
+              <BackButton />
+              <div className="w-full max-w-[1300px] mx-auto min-h-screen flex flex-col transition-colors duration-300">
                 {children}
               </div>
             </main>
