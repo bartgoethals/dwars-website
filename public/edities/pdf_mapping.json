@@ -1286,5 +1286,37 @@
         "cover_url": "https://dwars.be/sites/default/files/coverwebsite.png",
         "cover_filename": "cover-165.png",
         "cover_local_path": "/edities-covers/cover-165.png"
+    },
+    "166": {
+        "url": "/edities/dwars-166.pdf",
+        "number": 166,
+        "filename": "dwars-166.pdf",
+        "cover_url": "",
+        "cover_filename": "cover-166.png",
+        "cover_local_path": "/edities-covers/cover-166.png"
+    },
+    "167": {
+        "url": "/edities/dwars-167.pdf",
+        "number": 167,
+        "filename": "dwars-167.pdf",
+        "cover_url": "",
+        "cover_filename": "cover-167.png",
+        "cover_local_path": "/edities-covers/cover-167.png"
+    },
+    "168": {
+        "url": "/edities/dwars-168.pdf",
+        "number": 168,
+        "filename": "dwars-168.pdf",
+        "cover_url": "",
+        "cover_filename": "cover-168.png",
+        "cover_local_path": "/edities-covers/cover-168.png"
+    },
+    "169": {
+        "url": "/edities/dwars-169.pdf",
+        "number": 169,
+        "filename": "dwars-169.pdf",
+        "cover_url": "",
+        "cover_filename": "cover-169.png",
+        "cover_local_path": "/edities-covers/cover-169.png"
     }
 }
