@@ -52,17 +52,17 @@ export default async function Home() {
           {/* Ads Sidebar/Right Column */}
           <div className="w-full xl:w-[200px] shrink-0 flex flex-col sm:flex-row xl:flex-col gap-6">
             {/* Sidebar Article 1 */}
-            <article className="group mb-4 pb-4 border-b-2 border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
-              <span className="text-xs font-bold uppercase tracking-wider mb-2 dark:text-gray-300 block">Opinie</span>
-              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide group-hover:text-dwars-pink transition-colors">Lorem ipsum dolor sit amet.</h3>
-              <p className="text-sm text-black dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+            <article className="group mb-4 pb-4 border-b-2 border-white md:border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
+              <span className="text-xs font-bold uppercase tracking-wider mb-2 text-gray-300 md:text-gray-600 dark:text-gray-300 md:dark:text-gray-300 block">Opinie</span>
+              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide text-white md:text-black dark:text-white md:dark:text-white group-hover:text-dwars-pink md:group-hover:text-dwars-pink transition-colors">Lorem ipsum dolor sit amet.</h3>
+              <p className="text-sm text-gray-300 md:text-black dark:text-gray-400 md:dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
             </article>
 
             {/* Sidebar Article 2 */}
-            <article className="group mb-4 pb-4 border-b-2 border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
-              <span className="text-xs font-bold uppercase tracking-wider mb-2 dark:text-gray-300 block">Campus</span>
-              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide group-hover:text-dwars-pink transition-colors">Excepteur sint occaecat cupidatat non.</h3>
-              <p className="text-sm text-black dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <article className="group mb-4 pb-4 border-b-2 border-white md:border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer flex-1">
+              <span className="text-xs font-bold uppercase tracking-wider mb-2 text-gray-300 md:text-gray-600 dark:text-gray-300 md:dark:text-gray-300 block">Campus</span>
+              <h3 className="text-xl font-heading mb-2 leading-tight uppercase tracking-wide text-white md:text-black dark:text-white md:dark:text-white group-hover:text-dwars-pink md:group-hover:text-dwars-pink transition-colors">Excepteur sint occaecat cupidatat non.</h3>
+              <p className="text-sm text-gray-300 md:text-black dark:text-gray-400 md:dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
             </article>
           </div>
 

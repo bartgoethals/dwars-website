@@ -17,7 +17,7 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
 
     if (isMasonry) {
         return (
-            <article className="group mb-6 pb-4 border-b-2 border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer">
+            <article className="group mb-6 pb-4 border-b-2 border-white md:border-black dark:border-white break-inside-avoid relative transition-all duration-300 cursor-pointer">
                 <Link href={`/artikels/${slug}`} className="block w-full h-full relative">
                     {imageUrl ? (
                         <div className="relative w-full overflow-hidden grayscale group-hover:grayscale-0 transition-all duration-700">
@@ -31,12 +31,12 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
 
                         </div>
                     ) : (
-                        <div className="py-2 mb-2 group-hover:bg-black/5 dark:group-hover:bg-white/5 transition-colors">
-                            <h3 className="text-xl md:text-2xl font-heading mb-3 leading-tight uppercase text-black dark:text-white tracking-wide group-hover:text-dwars-pink dark:group-hover:text-dwars-pink transition-colors">
+                        <div className="py-2 mb-2 group-hover:bg-white/5 md:group-hover:bg-black/5 dark:group-hover:bg-white/5 transition-colors">
+                            <h3 className="text-xl md:text-2xl font-heading mb-3 leading-tight uppercase text-white md:text-black dark:text-white md:dark:text-white tracking-wide group-hover:text-dwars-pink dark:group-hover:text-dwars-pink transition-colors">
                                 {title}
                             </h3>
                             {excerpt && (
-                                <p className="text-sm md:text-base text-black dark:text-gray-300 leading-snug font-sans font-medium transition-colors">
+                                <p className="text-sm md:text-base text-gray-300 md:text-black dark:text-gray-300 md:dark:text-gray-300 leading-snug font-sans font-medium transition-colors">
                                     {excerpt}
                                 </p>
                             )}
@@ -59,14 +59,14 @@ export default function ArticleCard({ title, excerpt, imageUrl, slug, layout = '
             )}
 
             <div className={`flex flex-col ${isRow ? 'w-2/3' : 'w-full'}`}>
-                <Link href={`/artikels/${slug}`} className="hover:text-dwars-pink dark:hover:text-dwars-pink transition-colors">
-                    <h3 className="text-2xl font-heading mb-2 leading-tight uppercase tracking-wide dark:text-white">
+                <Link href={`/artikels/${slug}`} className="hover:text-dwars-pink dark:hover:text-dwars-pink md:hover:text-dwars-pink transition-colors">
+                    <h3 className="text-2xl font-heading mb-2 leading-tight uppercase tracking-wide text-white md:text-black dark:text-white md:dark:text-white">
                         {title}
                     </h3>
                 </Link>
-                {date && <p className="text-xs font-bold uppercase tracking-wider mb-2 dark:text-gray-300">{date}</p>}
+                {date && <p className="text-xs font-bold uppercase tracking-wider mb-2 text-gray-300 md:text-gray-600 dark:text-gray-300 md:dark:text-gray-300">{date}</p>}
                 {excerpt && (
-                    <p className="text-sm text-black dark:text-gray-400 leading-relaxed line-clamp-3 transition-colors">
+                    <p className="text-sm leading-relaxed line-clamp-3 transition-colors text-gray-300 md:text-black dark:text-gray-400 md:dark:text-gray-400">
                         {excerpt}
                     </p>
                 )}
